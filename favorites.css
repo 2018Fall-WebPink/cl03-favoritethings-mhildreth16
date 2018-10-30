@@ -1,0 +1,18 @@
+/*
+Madison Hildreth
+Due Date
+Project name and description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { 
+    background-color: ivory;
+}
+img{width: 200px; height: 100px;}
